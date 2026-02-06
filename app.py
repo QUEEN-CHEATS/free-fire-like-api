@@ -73,7 +73,7 @@ def like():
     return jsonify({
         
         
-        "credits":"KHUSHI",
+        "credits":"QUEEN KHUSHI",
         "likes_added": after_like - before_like,
         "likes_before": before_like,
         "likes_after": after_like,
@@ -92,9 +92,8 @@ if __name__ == "__main__":
 
 
 
+#don't remove my credits
 
-
-
-    
+#Example request:
 #URL_ENPOINTS ="http://127.0.0.1:5000/like?uid=13002831333&server=me"
-
+#credits : "QUEEN KHUSHI"
